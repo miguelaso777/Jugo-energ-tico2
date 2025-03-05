@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jugo Energético</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background: linear-gradient(45deg, #ff8c00, #ff4500);
+            color: white;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            background: rgba(0, 0, 0, 0.5);
+            border-radius: 10px;
+        }
+        img {
+            width: 100px;
+            border-radius: 50%;
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Jugo Energético</h1>
+        <p>Receta saludable para llenarte de energía</p>
+        <h2>Ingredientes:</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Orange-Whole-%26-Split.jpg" alt="Naranja">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Banana.png" alt="Banano">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Carrot.jpg" alt="Zanahoria">
+        <h2>Preparación:</h2>
+        <p>Licúa todos los ingredientes con un poco de agua y disfruta.</p>
+    </div>
+</body>
+</html>
